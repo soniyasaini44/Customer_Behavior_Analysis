@@ -1,5 +1,6 @@
 # Customer_Behavior_Analysis_Project
 🚀 Overview
+
 This project delivers a complete, production-style data analytics workflow — from raw CSV data ingestion to business-ready insights presented through dashboards and executive reports.
 The objective is to simulate a real-world analytics environment by integrating Python, SQL, and BI tools into a cohesive pipeline.
 
