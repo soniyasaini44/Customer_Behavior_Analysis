@@ -26,6 +26,7 @@ Power BI – Interactive dashboard creation
 Gamma – Presentation generation
 
 🔄 Project Workflow
+
 1️⃣ Data Ingestion
 
 Loaded raw CSV dataset into Python
@@ -105,25 +106,6 @@ Demonstrated Python-to-SQL-to-BI integration
 Converted raw data into executive-ready insights
 
 Simulated real-world analytics project lifecycle
-
-⚙️ How to Run
-
-Clone the repository
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run Python scripts for EDA & cleaning
-
-Import processed dataset into PostgreSQL
-
-Execute SQL queries
-
-Open Power BI dashboard file
-
-Review final report & presentation
 
 🎯 Conclusion
 
